@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/todos/todos",    
+    "pages/add-todo/add-todo"
+  ],
+   "window": {
+    "defaultTitle": "Todo App",
+    "titleBarColor": "#323239"
+  },
+  "tabBar": {
+    "items": [{
+      "pagePath": "home",
+      "name": "首页"
+    },{
+      "pagePath": "user",
+      "name": "用户"
+    }]
+  }
+}
